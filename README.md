@@ -10,7 +10,7 @@ Skills are reusable slash commands for Claude Code. When installed, they appear 
 
 | Skill | Description |
 |-------|-------------|
-| *(more coming soon)* | |
+| [nodejs-install](skills/nodejs-install/) | Check for Node.js/npm and install Node.js 24 on macOS (nvm) or Windows (Chocolatey), with validation and troubleshooting |
 
 ## How to Use a Skill
 
